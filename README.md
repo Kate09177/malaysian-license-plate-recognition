@@ -35,5 +35,3 @@ The notebook is self-contained — click the **Open in Colab** badge above, run 
 ## Notes
 - Detection is purely classical/rule-based computer vision (no trained CNN for plate localization) — tuned specifically for Malaysian plate proportions and layouts.
 - Test images used during development were sourced from publicly available internet images, used here for educational/non-commercial purposes only.
-- Detection is purely classical/rule-based computer vision (no trained CNN for plate localization) — tuned specifically for Malaysian plate proportions and layouts.
-- Test images used during development were sourced from publicly available internet images, used here for educational/non-commercial purposes only.
